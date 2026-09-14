@@ -1,0 +1,14 @@
+PHONE UPLOAD — IMPORTANT
+1) In GitHub repository, replace the old root files with these files.
+2) Keep .github/workflows/build-apk.yml in that exact folder.
+3) There should NOT be an app folder.
+4) The repository root should show:
+   .github/workflows
+   AndroidManifest.xml
+   MainActivity.java
+   build.gradle
+   settings.gradle
+   gradle.properties
+   index.html
+   manifest.json
+5) Then Actions -> Build SSC CHSL 2026 APK -> Run workflow.
