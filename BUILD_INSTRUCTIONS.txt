@@ -1,0 +1,7 @@
+SSC CHSL 2026 AI Coach - Android project
+
+Open this folder in Android Studio (Ladybug or newer).
+Allow Gradle sync, then Build > Build APK(s).
+The generated APK will be under app/build/outputs/apk/debug/ for a debug build.
+
+This first APK wrapper is offline-first and packages the advanced HTML coach already created. It includes local progress, planner, tests, analysis, revision/mistake book and profile features from the prototype. A true cloud AI backend, live PYQ database, and server-side sync require additional backend integration.
